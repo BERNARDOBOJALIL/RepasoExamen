@@ -6,7 +6,7 @@ export const HomePage = () => {
       {/* Hero Section */}
       <section className="bg-[url('https://example.com/food-hero.jpg')] bg-cover bg-center h-96 flex justify-center items-center">
         <div className="bg-green-600  p-12 rounded">
-          <h1 className="text-white text-5xl font-bold">Holaaaaaaaaaaa</h1>
+          <h1 className="text-white text-5xl font-bold">Holaaaaaaaaaaa como estás</h1>
           <p className="text-white mt-4 text-lg">Descubre una experiencia gastronómica única</p>
         </div>
       </section>
